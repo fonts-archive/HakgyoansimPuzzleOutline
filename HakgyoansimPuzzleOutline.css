@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Hakgyoansim Puzzle Outline';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPuzzleOutline/HakgyoansimPuzzleOutline.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPuzzleOutline/HakgyoansimPuzzleOutline.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPuzzleOutline/HakgyoansimPuzzleOutline.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimPuzzleOutline/HakgyoansimPuzzleOutline.ttf') format('truetype');
+}
